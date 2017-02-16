@@ -12,6 +12,11 @@ https://nodejs.org/en/download/package-manager/
 
 Here are the node.js modules used with 
 
-Node package | Function
--------------|---------------------------------------
-Test         | Functiond definition
+Node package      | Function
+------------------|-------------------------------------------------------------------------------------------
+browser-sync      | Automatically refresh browser once CSS, HTML twig view, or Javascript edit has been saved
+gulp-uglify       | Obfuscates our Javascript code
+gulp-sass         | Automatically compiles all SASS and configured to concatenate into a single CSS file
+gulp-imagemin     | Optimizes all images for web, and configured to output interlaced GIFs for GIF files
+gulp-cache        | Caches optimized images so that same files aren't replaced
+
