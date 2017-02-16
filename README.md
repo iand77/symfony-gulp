@@ -8,6 +8,8 @@ Node package manager is required to install gulp and its dependancies.
 Please check here for more information:
 https://nodejs.org/en/download/package-manager/
 
+Once Node Package Manager has been installed and configured for your machine execute the included bash script _install.sh _in your terminal.
+
 ## What's included? ##
 
 Here are the node.js module dependancies for gulpfile.js, with a breif description of what each package does.
