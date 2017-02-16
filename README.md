@@ -5,8 +5,8 @@ A gulpfile.js configured to use with Symfony PHP Framework.
 
 1. Node package manager is required to install gulp and its dependancies. 
 
-Please check here for more information:
-https://nodejs.org/en/download/package-manager/
+   Please check here for more information:
+   https://nodejs.org/en/download/package-manager/
 
 2. Once Node Package Manager has been installed and configured for your machine execute the included bash script ***install.sh*** in your terminal.
 
