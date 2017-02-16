@@ -8,7 +8,7 @@ A gulpfile.js configured to use with Symfony PHP Framework.
    Please check here for more information:
    https://nodejs.org/en/download/package-manager/
 
-2. Once Node Package Manager has been installed and configured for your machine execute the included bash script ***install.sh*** in your terminal.
+2. Once Node Package Manager has been installed and configured for your machine, execute the included bash script ***install.sh*** in your terminal.
 
 ## What's included? ##
 
