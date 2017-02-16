@@ -10,7 +10,7 @@ https://nodejs.org/en/download/package-manager/
 
 ## Whats included? ##
 
-Here are the node.js modules used with 
+Here are the node.js module dependancies for gulpfile.js, with a breif description of what each package does.
 
 Node package      | Function
 ------------------|-------------------------------------------------------------------------------------------
